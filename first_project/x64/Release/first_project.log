@@ -1,0 +1,15 @@
+﻿main.obj : error LNK2001: неразрешенный внешний символ __CxxFrameHandler4.
+main.obj : error LNK2001: неразрешенный внешний символ __imp_setlocale.
+main.obj : error LNK2001: неразрешенный внешний символ __imp_srand.
+main.obj : error LNK2001: неразрешенный внешний символ __imp__getch.
+main.obj : error LNK2001: неразрешенный внешний символ __imp_rand.
+main.obj : error LNK2001: неразрешенный внешний символ __imp_system.
+main.obj : error LNK2001: неразрешенный внешний символ __imp__time64.
+main.obj : error LNK2001: неразрешенный внешний символ __std_terminate.
+MSVCRT.lib(new_scalar.obj) : error LNK2001: неразрешенный внешний символ _callnewh.
+MSVCRT.lib(new_scalar.obj) : error LNK2001: неразрешенный внешний символ malloc.
+MSVCRT.lib(throw_bad_alloc.obj) : error LNK2001: неразрешенный внешний символ __std_exception_copy.
+MSVCRT.lib(throw_bad_alloc.obj) : error LNK2001: неразрешенный внешний символ __std_exception_destroy.
+MSVCRT.lib(throw_bad_alloc.obj) : error LNK2001: неразрешенный внешний символ _CxxThrowException.
+MSVCRT.lib(delete_scalar.obj) : error LNK2001: неразрешенный внешний символ free.
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\x64\Release\first_project.exe : fatal error LNK1120: неразрешенных внешних элементов: 14

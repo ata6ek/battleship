@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(21,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(21,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(60,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(84,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(89,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(96,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(172,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(187,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(358,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  first_project.vcxproj -> C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\Debug\first_project.exe

@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(23,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(23,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(62,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(86,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(91,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(98,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(174,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(189,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\first_project\main.cpp(360,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  first_project.vcxproj -> C:\Users\Ata6ek\Desktop\Проект 2курс\first_project\Release\first_project.exe
